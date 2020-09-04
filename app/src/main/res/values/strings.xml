@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PhableCare Assignment</string>
+
+    <string name="fragment_user_list">User List</string>
+    <string name="fragment_user_add">Add User</string>
+    <string name="fragment_user_edit">Edit User</string>
+
+    <string name="fab_add_user">Add User</string>
+
+    <string name="hint_user_name">Name</string>
+    <string name="hint_user_email">Email</string>
+    <string name="btn_save">Save</string>
+
+    <string name="title_edit_user">Update User</string>
+    <string name="title_add_user">Add User</string>
+
+</resources>
